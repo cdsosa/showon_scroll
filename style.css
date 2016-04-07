@@ -1,0 +1,4 @@
+body { color:#333; font:12px 'segoe ui', sans-serif; }
+span { top:1em; left:1em; position:fixed; }
+ul#tiles { margin:50em 0; }
+ul#tiles li { width:400px; height:200px; margin:20em auto; background:#333; }
